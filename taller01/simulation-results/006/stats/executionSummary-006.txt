@@ -1,0 +1,2 @@
+numExperiment:tsim:calibatrionTime:Residents:Visitors:timeExecMakeAgents:timeExecCal:timeExecSim:maxMemory:agentsMem
+6:3600:100:69000:6000:27752:33297:188991:291024:33648
